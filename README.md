@@ -1,6 +1,7 @@
 # 3D-Pong-in-Pygame
 
 https://youtu.be/pO-TjI3w3Yo 
+<img width="1280" height="720" alt="3D Pong" src="https://github.com/user-attachments/assets/3072e333-2575-485d-ab83-67785fe0e855" />
 
 It's Pong but in 3D!
 
